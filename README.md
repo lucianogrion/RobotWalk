@@ -15,7 +15,7 @@ For a = [4, 4, 3, 2, 2, 3], the output should be true.
 
 The path of the robot looks like this:
 
-
+![path.png](path.png)
 
 The point (4, 3) is visited twice, so the answer is true.
 
